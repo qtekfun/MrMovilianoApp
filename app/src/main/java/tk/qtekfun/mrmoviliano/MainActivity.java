@@ -17,9 +17,6 @@ import android.webkit.WebView;
 
 
 public class MainActivity extends AppCompatActivity{
-    // Remove the below line after defining your own ad unit ID.
-    private static final String TOAST_TEXT = "Test ads are being shown. "
-            + "To show live ads, replace the ad unit ID in res/values/strings.xml with your own ad unit ID.";
 
     private WebView mWebView;
     private Toast toast;
@@ -37,9 +34,6 @@ public class MainActivity extends AppCompatActivity{
         AdView adView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         adView.loadAd(adRequest);
-
-        // Toasts the test ad message on the screen. Remove this after defining your own ad unit ID.
-        Toast.makeText(this, TOAST_TEXT, Toast.LENGTH_LONG).show();
 
         // webView settings
         mWebView = (WebView) findViewById(R.id.webView);
