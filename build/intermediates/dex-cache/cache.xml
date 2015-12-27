@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/qtekfun/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_44570cf0faf3c03d8689ff6c55aefa5de77fc271.jar" />
+    </item>
+    <item
+        jar="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_dc05d2d70824196380fd11b32272c8a1e7ff98c8.jar" />
+    </item>
+    <item
+        jar="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-6.5.87_0fd4c0e32cd02f4fba4dc79e81483c189355767e.jar" />
+    </item>
+    <item
+        jar="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_32a9ade75bfcb34f5b3d712f920cd40c093fcfdc.jar" />
+    </item>
+    <item
+        jar="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41aa21f9c5d9ea9aab32c0b8e33d0c13364063a9">
+        <dex dex="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-6.5.87_13b8a56c25a38fce4668a9cd50cdc456d86a775e.jar" />
+    </item>
+    <item
+        jar="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_91b47d308fca53dd108abbfbc93081788f3da656.jar" />
+    </item>
+
+</items>

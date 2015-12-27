@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/mr_moviliano_square.jpg",
+        "source": "/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/src/main/res/mipmap-xxhdpi/mr_moviliano_square.jpg"
+    },
+    {
+        "merged": "/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/qtekfun/AndroidStudioProjects/Mr.Moviliano/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
